@@ -1,2 +1,2 @@
 # docker-php-ldap
-Like php docker image but with ldap support
+This image does the same that [php:apache](https://hub.docker.com/_/php/) does ldap and mod_rewrite support.
